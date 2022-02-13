@@ -7,5 +7,6 @@ public class Kniha {
         this.nazov = nazov;
         this.autor = autor;
         this.pocet_stran = pocet_stran;
+
     }
 }
